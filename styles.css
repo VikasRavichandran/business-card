@@ -1,0 +1,30 @@
+body
+{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a
+{
+    color: #222222;
+    text-decoration: none;
+}
+.main
+{
+    background: #e5383b;
+    border-radius: 10px;
+    border-bottom: 10px solid #b81a1b;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+.avatar
+{
+    width: 100px;
+}
+
+h3{
+    font-style: italic;
+}
